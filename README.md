@@ -1,3 +1,3 @@
-# Front Mission 1st 繁體中文補丁
+# Front Mission 1st NDS 繁體中文補丁
 
 Windows x64 繁體中文補丁工具請至 [Releases](../../releases) 下載。
